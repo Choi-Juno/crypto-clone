@@ -7,7 +7,7 @@ import Price from "./routes/Price";
 
 function Router() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/crypto-clone">
             <Routes>
                 <Route path="/" element={<Layout />}>
                     <Route index element={<Coins />} />
