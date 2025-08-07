@@ -39,6 +39,6 @@
     "typescript-eslint": "^8.35.1",
     "vite": "^7.0.4"
   },
-  "homepage": "https://choi-juno.github.io/crypto-clone"
+  "homepage": "https://choi-juno.github.io/crypto-clone/"
 
 }
